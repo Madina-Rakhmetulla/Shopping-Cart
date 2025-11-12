@@ -1,3 +1,13 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+shelf/
+workspace.xml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
